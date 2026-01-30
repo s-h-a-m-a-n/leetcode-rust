@@ -3,7 +3,7 @@ name = "leetcode-rust"
 version = "0.1.0"
 edition = "2026"
 description = "LeetCode solutions implemented in Rust"
-repository = "https://github.com/ваш-username/leetcode-rust"
+repository = "https://github.com/s-h-a-m-a-n/leetcode-rust"
 license = "MIT"
 readme = "README.md"
 
