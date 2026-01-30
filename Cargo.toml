@@ -1,1 +1,15 @@
+[package]
+name = "leetcode-rust"
+version = "0.1.0"
+edition = "2026"
+description = "LeetCode solutions implemented in Rust"
+repository = "https://github.com/ваш-username/leetcode-rust"
+license = "MIT"
+readme = "README.md"
 
+[dependencies]
+# Добавьте здесь зависимости если нужны
+# rand = "0.8"
+
+[dev-dependencies]
+# Для дополнительных тестов
